@@ -1,0 +1,10 @@
+# Financial AI Advisor (Phidata + Groq)
+
+phidata
+groq
+python-dotenv
+yfinance
+duckduckgo-search
+fastapi
+uvicorn[standard]
+sqlalchemy
